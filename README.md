@@ -11,6 +11,10 @@ Leading research efforts at multiple, international enterprise software companie
 ## Solution
 I have found that the most recent versions of Apple's QuickTime Player and Notes[2] applications to be helpful in rapid transcription of both audio and video files.
 
+### Transcribing existing audio files
+[INSERT STEP-BY-STEP GUIDE]
+
+### Transcribing existing video files
 [INSERT STEP-BY-STEP GUIDE]
 
 ## Limitations
