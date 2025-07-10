@@ -12,10 +12,13 @@ Leading research efforts at multiple, international enterprise software companie
 I have found that the most recent versions of Apple's QuickTime Player and Notes[2] applications to be helpful in rapid transcription of both audio and video files.
 
 ### Transcribing existing audio files
-[INSERT STEP-BY-STEP GUIDE]
+1. Go to the Notes app on your Mac.
 
 ### Transcribing existing video files
-[INSERT STEP-BY-STEP GUIDE]
+1. Go to the Quicktime Player on your Mac.
+2. [Open a video file](https://support.apple.com/guide/quicktime-player/open-and-play-a-file-qtp6cee0761b/mac#apd1ccd2ad518334) that contains audio.
+3. [Export as audio only](https://support.apple.com/guide/quicktime-player/export-movies-qtp20e395859/mac) from the File » Export As » Audio Only menu item
+4. Follow the steps in "Transcribing existing audio files" above.
 
 ## Limitations
 While this method produces transcription from audio and optionally video with additional steps, two immediate limitations present themselves:
