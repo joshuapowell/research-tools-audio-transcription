@@ -13,8 +13,8 @@ I have found that the most recent versions of Apple's QuickTime Player and Notes
 
 [INSERT STEP-BY-STEP GUIDE]
 
-## Caveats
-While this method produces transcription from audio and optionally video with additional steps, two caveats present themselves:
+## Limitations
+While this method produces transcription from audio and optionally video with additional steps, two immediate limitations present themselves:
 
 1. Speaker Diarization: currently unavailable in the Apple Notes product.
 2. Time Coding: not visualized in the Apple Notes application, however, if you use the audio transcription within Apple Notes you can click anywhere in the transcription to start playing the audio at that time stamp.
