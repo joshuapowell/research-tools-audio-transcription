@@ -20,10 +20,8 @@ I have found that the most recent versions of Apple's QuickTime Player and Notes
 
 ### Exporting transcription from Apple Notes
 1. Follow the steps in "Transcribing existing audio files" above.
-2. Click in the "transcription text".
-3. Select All (Command + A) text or alternatively click and drag to highlight specific section.
-4. Copy (Command + C) the selected text.
-5. Paste (Command + V) text in the Notes app or other application.
+2. Click the three-docs (•••) at the top of the transcription window.
+3. Select Copy Transcript or Add Transcript to Note
 
 ### Transcribing existing video files
 1. Go to the Quicktime Player on your Mac.
