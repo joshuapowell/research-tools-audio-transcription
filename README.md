@@ -13,11 +13,22 @@ I have found that the most recent versions of Apple's QuickTime Player and Notes
 
 ### Transcribing existing audio files
 1. Go to the Notes app on your Mac.
+2. Create a new Note.
+3. Drag and drop the existing audio file into the new Note.
+4. Double-click on the recording object in the Note to open the side panel.
+5. Click on the Show Transcript button next to the red Record button.
+
+### Exporting transcription from Apple Notes
+1. Follow the steps in "Transcribing existing audio files" above.
+2. Click in the "transcription text".
+3. Select All (Command + A) text or alternatively click and drag to highlight specific section.
+4. Copy (Command + C) the selected text.
+5. Paste (Command + V) text in the Notes app or other application.
 
 ### Transcribing existing video files
 1. Go to the Quicktime Player on your Mac.
 2. [Open a video file](https://support.apple.com/guide/quicktime-player/open-and-play-a-file-qtp6cee0761b/mac#apd1ccd2ad518334) that contains audio.
-3. [Export as audio only](https://support.apple.com/guide/quicktime-player/export-movies-qtp20e395859/mac) from the File » Export As » Audio Only menu item
+3. [Export as audio only](https://support.apple.com/guide/quicktime-player/export-movies-qtp20e395859/mac) from the File » Export As » Audio Only menu item.
 4. Follow the steps in "Transcribing existing audio files" above.
 
 ## Limitations
