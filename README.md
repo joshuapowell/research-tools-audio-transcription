@@ -13,8 +13,8 @@ I have found that the most recent versions of Apple's QuickTime Player and Notes
 
 ### Transcribing existing audio files
 1. Go to the Notes app on your Mac.
-2. Create a new Note.
-3. Drag and drop the existing audio file into the new Note.
+2. [Create a new Note](https://support.apple.com/guide/notes/create-and-edit-notes-not9474646a9/mac).
+3. Drag and drop the existing audio file into the new Note or [follow alternative instructions here](https://support.apple.com/guide/notes/add-photos-pdfs-and-more-not95edd2813/mac#apd8f5d211a4e594).
 4. Double-click on the recording object in the Note to open the side panel.
 5. Click on the Show Transcript button next to the red Record button.
 
@@ -62,6 +62,7 @@ Copyright &copy; 2025 J.I. Powell. All rights reserved.
 1. Artificial intelligence companies in speech and voice recognition sector. (2025, March 24). Tracxn Technologies Limited. Retrieved July 10, 2025, from https://tracxn.com/d/artificial-intelligence/ai-startups-in-speech-and-voice-recognition/__X4VAmZV3WPF6CQRYmwYinLuDDKaDUYcoz2eTtXbUoIQ/companies#t-5-chorus.ai
 2. Record and transcribe audio in Notes on Mac - Apple Support. (2025, March 31). Apple Support. https://support.apple.com/guide/notes/record-and-transcribe-audio-apdb5106e334/mac#apdf7fd2b23a
 3. Resnik, D.B., Hosseini, M. The ethics of using artificial intelligence in scientific research: new guidance needed for a new tool. AI Ethics 5, 1499–1521 (2025). https://doi.org/10.1007/s43681-024-00493-8
+4. Record and transcribe audio in Notes
 
 
 
